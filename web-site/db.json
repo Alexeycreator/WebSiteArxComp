@@ -1,0 +1,28 @@
+{
+    "Users": [
+        {
+            "id": 1,
+            "fullName": "Рушев Алексей Михайлович",
+            "age": "23",
+            "study": "Владимирский государственный университет имени Александра Григорьевича и Николая Григорьевича Столетовых",
+            "imageURL": "./src/components/img/Фото1.jpg",
+            "phoneNumber": "89209165221",
+            "email": "rushev.alexey@gmail.com"
+        }
+    ],
+    "ProfessionalAchiev": [
+        {}
+    ],
+    "PersonalAchiev": [
+        {
+            "id": 1,
+            "name": "Походы",
+            "description": "В империю"
+        },
+        {
+            "id": 2,
+            "name": "Походы",
+            "description": "В империю"
+        }
+    ]
+}

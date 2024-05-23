@@ -1,0 +1,38 @@
+.container{
+    max-width: 1170px;
+    margin: auto;
+    padding: 0 15px;
+}
+
+.mtb-3{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.table{
+    width: 100%;
+    
+}
+
+.table th, .table td{
+    text-align: center;
+    padding: 10px;
+}
+
+.table th{
+    background-color: aqua;
+    color: black;
+}
+
+.table tr{
+    transition: all 0.3s;
+}
+
+.table tr:hover{
+    background-color: #ccc
+}
+
+.tableResponsive{
+    overflow-x: auto;
+    box-shadow: 0 5px 15px rgba(red, green, blue, alpha);
+}
